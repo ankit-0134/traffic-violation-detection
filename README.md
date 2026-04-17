@@ -1,0 +1,41 @@
+# 🚦 Traffic Violation Detection System  
+
+[![Watch Demo](helmet_violation/demo/banner.png)](helmet_violation/demo/demo.mp4)
+
+---
+
+## 💡 About  
+
+This project combines two computer vision systems to detect traffic violations using YOLOv8:
+
+- 🪖 **Helmet Violation Detection** (two-wheelers)  
+- 🚗 **Seatbelt Violation Detection** (cars)  
+
+The system processes traffic videos, identifies violations, and captures evidence.
+
+---
+
+## 📁 Project Structure  
+traffic-violation-detection/
+├── helmet_violation/
+├── seatbelt_violation/
+├── README.md
+└── .gitignore
+
+
+---
+
+## 🚀 Explore Modules  
+
+For full details and setup:
+
+- 👉 Open `helmet_violation/` for helmet detection  
+- 👉 Open `seatbelt_violation/` for seatbelt detection  
+
+Each module contains its own implementation and instructions.
+
+---
+
+## 💡 Note  
+
+Model weights are not included. Refer to individual module folders for setup.
