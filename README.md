@@ -15,8 +15,8 @@ The system processes traffic videos, identifies violations, and captures evidenc
 
 ## 📁 Project Structure  
 traffic-violation-detection/
-├── helmet_violation/
-├── seatbelt_violation/
+├── helmet_violation_detector/
+├── seatbelt-violation-detection/
 ├── README.md
 └── .gitignore
 
@@ -27,8 +27,8 @@ traffic-violation-detection/
 
 For full details and setup:
 
-- 👉 Open `helmet_violation/` for helmet detection  
-- 👉 Open `seatbelt_violation/` for seatbelt detection  
+- 👉 Open [`helmet_violation_detector`](./helmet_violation_detector) for helmet detection  
+- 👉 Open [`seatbelt-violation-detection`](./seatbelt-violation-detection) for seatbelt detection  
 
 Each module contains its own implementation and instructions.
 
