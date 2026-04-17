@@ -1,7 +1,5 @@
 # 🚦 Traffic Violation Detection System  
 
-[![Watch Demo](helmet_violation/demo/banner.png)](helmet_violation/demo/demo.mp4)
-
 ---
 
 ## 💡 About  
